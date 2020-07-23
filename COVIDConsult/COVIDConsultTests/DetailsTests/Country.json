@@ -1,0 +1,72 @@
+[
+    {
+        "Country": "South Africa",
+        "CountryCode": "ZA",
+        "Province": "",
+        "City": "",
+        "CityCode": "",
+        "Lat": "-30.56",
+        "Lon": "22.94",
+        "Confirmed": 2173,
+        "Deaths": 25,
+        "Recovered": 410,
+        "Active": 1738,
+        "Date": "2020-04-13T00:00:00Z"
+    },
+    {
+        "Country": "South Africa",
+        "CountryCode": "ZA",
+        "Province": "",
+        "City": "",
+        "CityCode": "",
+        "Lat": "-30.56",
+        "Lon": "22.94",
+        "Confirmed": 2272,
+        "Deaths": 27,
+        "Recovered": 410,
+        "Active": 1835,
+        "Date": "2020-04-14T00:00:00Z"
+    },
+    {
+        "Country": "South Africa",
+        "CountryCode": "ZA",
+        "Province": "",
+        "City": "",
+        "CityCode": "",
+        "Lat": "-30.56",
+        "Lon": "22.94",
+        "Confirmed": 2415,
+        "Deaths": 27,
+        "Recovered": 410,
+        "Active": 1978,
+        "Date": "2020-04-15T00:00:00Z"
+    },
+    {
+        "Country": "South Africa",
+        "CountryCode": "ZA",
+        "Province": "",
+        "City": "",
+        "CityCode": "",
+        "Lat": "-30.56",
+        "Lon": "22.94",
+        "Confirmed": 2506,
+        "Deaths": 34,
+        "Recovered": 410,
+        "Active": 2062,
+        "Date": "2020-04-16T00:00:00Z"
+    },
+    {
+        "Country": "South Africa",
+        "CountryCode": "ZA",
+        "Province": "",
+        "City": "",
+        "CityCode": "",
+        "Lat": "-30.56",
+        "Lon": "22.94",
+        "Confirmed": 2605,
+        "Deaths": 48,
+        "Recovered": 903,
+        "Active": 1654,
+        "Date": "2020-04-17T00:00:00Z"
+    }
+]
